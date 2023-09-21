@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.hero{display:flex;
+	  justify-content:space-between;
+	  align-items:inline;
+}
+img{object-fit:cover;
+	width:50vw;
+	height:50vw;
+}
+button{border-radius:5px; color:white;
+	padding:5px;
+	background-color:red;
+}
+	   .line1{padding-top:0px;
+		   }
+.line2{margin-bottom:0px;
+	padding-top:0px;}
